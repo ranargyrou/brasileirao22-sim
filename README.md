@@ -5,7 +5,7 @@ Basic simulation of the Brazilian Soccer League for 2022 using Python
 This simple Python project simulates the 2022 season of the Brasileirao using predctions made by [FiveThirtyEught](https://projects.fivethirtyeight.com/previsoes-de-futebol/brasileirao/) in March 2022 prior to the start of the league. As a soccer entushiast, I made this project to visualize how FiveThirtyEught's inital predictions would serve as an estimator for the final league standings now that the season is over (by the time I made the initial code). Making this project allowed me to gain practical experience with some Python data structures and concepts. During this process, I familiarized myself with Virtual Studio Code and git. Drawing influence from other projects, I expanded my knowledge in programming with Python. I hope you enjoy it!
 
 # Technologies Used:
-- Python 3
+- Python
 - Visual Studio Code
 
 # Setup:
